@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Smoke on the Water",
+  "base_artist": "Deep Purple",
+  "createdAt": "2026-03-13T00:21:51.257378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/01_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smoke on the Water",
+      "artist": "Soulfly",
+      "has_synced": true,
+      "path": "select/02_Smoke_on_the_Water_Soulfly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Santana",
+      "has_synced": false,
+      "path": "select/03_Smoke_On_The_Water_Santana.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Rainbow",
+      "has_synced": false,
+      "path": "select/04_Smoke_On_The_Water_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Smoke on the Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/05_Smoke_on_the_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Panzerballett",
+      "has_synced": false,
+      "path": "select/06_Smoke_On_The_Water_Panzerballett.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smoke on the Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/07_Smoke_on_the_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Smoke On the Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/08_Smoke_On_the_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Smoke on the Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/09_Smoke_on_the_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/10_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Dread Zeppelin",
+      "has_synced": false,
+      "path": "select/11_Smoke_On_The_Water_Dread_Zeppelin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/12_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Smoke on the Water",
+      "artist": "Bob Wills & His Texas Playboys",
+      "has_synced": true,
+      "path": "select/13_Smoke_on_the_Water_Bob_Wills_&_His_Texas_Playboys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Smoke on the Water - Remastered",
+      "artist": "Red Foley",
+      "has_synced": false,
+      "path": "select/14_Smoke_on_the_Water_-_Remastered_Red_Foley.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Smoke on the Water",
+      "artist": "The Cooltrane Quartet",
+      "has_synced": true,
+      "path": "select/15_Smoke_on_the_Water_The_Cooltrane_Quartet.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Smoke on the Water",
+      "artist": "Mr. Big",
+      "has_synced": false,
+      "path": "select/16_Smoke_on_the_Water_Mr._Big.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Smoke on the Water",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/17_Smoke_on_the_Water_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Smoke On the Water (Live on the BBC Friday Rock Show at The Reading Festival, Saturday August 27th 1983)",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/18_Smoke_On_the_Water_(Live_on_the_BBC_Friday_Rock_Show_at_The_Reading_Festival,_Sa_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/19_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/20_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/21_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/22_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/23_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/24_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/25_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/26_Smoke_On_The_Water_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Smoke On the Water (Live)",
+      "artist": "Deep Purple",
+      "has_synced": false,
+      "path": "select/27_Smoke_On_the_Water_(Live)_Deep_Purple.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "has_synced": false,
+      "path": "select/pl_01_Smoke_On_The_Water_Deep_Purple.txt"
+    }
+  ]
+}
