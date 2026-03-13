@@ -1,0 +1,47 @@
+# Deep Purple – Smoke on the Water
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:51.23] We all came out to Montreux
+[00:55.46] On the Lake Geneva shoreline
+[01:00.25] To make records with a mobile
+[01:05.59] We didn't have much time
+[01:17.59] 
+[01:08.82] But Frank Zappa and The Mothers
+[01:12.56] Were at the best place around
+[01:17.27] But some stupid with a flare gun
+[01:21.15] Burned the place to the ground
+[01:36.15] 
+[01:25.16] Smoke on the water
+[01:30.10] A fire in the sky
+[01:33.87] Smoke on the water
+[01:42.87] 
+[01:55.13] They burned down the gambling house
+[01:58.90] It died with an awful sound
+[02:03.97] But Funky Claude was running in and out
+[02:09.45] Pulling kids out the ground
+[02:22.95] 
+[02:12.43] When it all was over
+[02:15.90] We had to find another place
+[02:20.55] But Swiss time was running out
+[02:24.21] It seemed that we would lose the race
+[02:42.71] 
+[02:28.47] Smoke on the water
+[02:33.21] A fire in the sky
+[02:36.96] Smoke on the water
+[02:45.96] 
+[03:56.68] We ended up at the Grand Hotel
+[04:00.99] It was empty, cold and bare
+[04:03.97] But with the Rolling-truck-Stones-thing just outside, ha
+[04:10.20] Making our music there
+[04:21.20] 
+[04:12.33] With a few red lights, huh, a few old beds, huh
+[04:17.41] We made a place to sweat
+[04:21.61] No matter what we get out of this, ha
+[04:25.78] I know, I know we'll never forget
+[04:42.28] 
+[04:29.20] Smoke on the water
+[04:33.95] A fire in the sky
+[04:37.85] Smoke on the water
+```
